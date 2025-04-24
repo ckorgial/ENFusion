@@ -1,2 +1,3 @@
-# ENFusion
-A machine learning fusion framework for classification audio recordings utilizing ENF signals
+# On Spectrogram Analysis in a Multiple Classifier Fusion Framework for Power Grid Classification Using Electric Network Frequency
+
+Implementation of a machine learning fusion framework for classifying audio recordings by leveraging Electric Network Frequency (ENF) signals, based on the spectrogram-based multi-classifier approach proposed by Georgios Tzolopoulos, Christos Korgialas, and Constantine Kotropoulos in [*On Spectrogram Analysis in a Multiple Classifier Fusion Framework for Power Grid Classification Using Electric Network Frequency*](https://www.scitepress.org/Link.aspx?doi=10.5220/0012418400003654), presented at ICPRAM 2024.
